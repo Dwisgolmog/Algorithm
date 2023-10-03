@@ -1,11 +1,9 @@
-package 반복문;
+package 배열_1차원;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.StringTokenizer;
 
 public class Num10871 {

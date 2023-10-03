@@ -1,4 +1,4 @@
-package 반복문;
+package 배열_1차원;
 
 import java.io.*;
 import java.util.StringTokenizer;
