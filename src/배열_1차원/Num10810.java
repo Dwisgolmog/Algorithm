@@ -17,7 +17,7 @@ public class Num10810 {
         int[] basket = new int[Integer.parseInt(st.nextToken())]; //버퍼에 처음 입력한 숫자의 크기만큼 바구니 갯수를 지정
         int count = Integer.parseInt(st.nextToken());
 
-        while(count-- > 0){ //이중 for문 대신 가독성을 위해 채택
+        while(count-- > 0){ //이중 for문 대신 가독성의 차이를 위해 채택
             st = new StringTokenizer(br.readLine());
             firstIndex = Integer.parseInt(st.nextToken()) - 1;
             secondIndex = Integer.parseInt(st.nextToken()) - 1;
